@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/price-checker-crypto/static/css/main.1e923020.css",
+    "main.js": "/price-checker-crypto/static/js/main.610e5d52.js",
+    "static/js/453.9ee59a88.chunk.js": "/price-checker-crypto/static/js/453.9ee59a88.chunk.js",
+    "index.html": "/price-checker-crypto/index.html",
+    "main.1e923020.css.map": "/price-checker-crypto/static/css/main.1e923020.css.map",
+    "main.610e5d52.js.map": "/price-checker-crypto/static/js/main.610e5d52.js.map",
+    "453.9ee59a88.chunk.js.map": "/price-checker-crypto/static/js/453.9ee59a88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e923020.css",
+    "static/js/main.610e5d52.js"
+  ]
+}
