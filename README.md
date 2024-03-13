@@ -1,4 +1,4 @@
-![screenshot](main.png)
+![screenshot](https://i0.wp.com/juliusaalto.com/wp-content/uploads/2024/03/main-1.png)
 
 # Getting Started with Create React App
 
