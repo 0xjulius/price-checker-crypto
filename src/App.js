@@ -17,7 +17,7 @@ function App() {
           {
             params: {
               vs_currency: 'usd',
-              ids: 'bitcoin,ethereum,litecoin', // Add more IDs as needed
+              ids: 'bitcoin,ethereum,litecoin,solana,binancecoin,vechain', // Add more IDs as needed
             },
           }
         );
