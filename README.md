@@ -1,3 +1,11 @@
+Shows cryptocurrency prices real time from coingecko api.
+![screenshot](https://i0.wp.com/juliusaalto.com/wp-content/uploads/2024/03/main-1.png)
+
+Site live here: https://0xjulius.github.io/price-checker-crypto/
+
+************************************************************************************************************
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
